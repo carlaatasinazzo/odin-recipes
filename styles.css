@@ -1,0 +1,37 @@
+h1 {
+    color: white;
+    background-color: rgb(89, 85, 150);
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Verdana, sans-serif;
+  }
+
+ul,
+ol {
+    color: white;
+    background-color: rgb(143, 143, 150);
+    font-size: 22px;
+    font-family: Arial, Verdana, sans-serif;
+ }
+ 
+ img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+ h2 {
+    color: rgb(184, 132, 70);
+    background-color: rgb(236, 206, 196);
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Verdana, sans-serif;
+  }
+
+  p {
+    font-size: 22px;
+    font-family: Arial, Verdana, sans-serif;
+  }
+  
